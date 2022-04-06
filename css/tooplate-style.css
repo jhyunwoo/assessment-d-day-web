@@ -1,0 +1,331 @@
+/* 
+
+Template 2091 Ziggy
+
+http://www.tooplate.com/view/2091-ziggy
+
+*/
+
+/*============
+BASIC STYLE
+============*/
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+p {
+  font-size: 13px;
+  color: #7a7a7a;
+  line-height: 22px;
+}
+
+.primary-button a {
+  text-decoration: none;
+  padding: 10px 18px;
+  display: inline-block;
+  border-radius: 24px;
+  font-size: 11px;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+
+/* ======================
+----- FOOTER SECTION ----
+=======================*/
+
+footer {
+  text-align: center;
+  background-image: url(../img/footer-bg.png);
+  background-size: cover;
+  width: 100%;
+  background-repeat: no-repeat;
+  padding: 11% 0px 4% 0px;
+}
+
+footer ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+footer ul li {
+  display: inline-block;
+  margin: 0 3px;
+}
+
+footer ul li a {
+  font-size: 16px;
+  color: #415b90;
+  display: inline-block;
+  width: 38px;
+  height: 38px;
+  line-height: 38px;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 50%;
+}
+
+footer ul li a:hover {
+  background-color: #22304d;
+  color: #415b90;
+  transition: all 0.3s;
+}
+
+footer p {
+  margin-top: 20px;
+  font-size: 13px;
+  font-weight: 300;
+  letter-spacing: 0.2px;
+  color: #fff;
+}
+
+footer em {
+  font-style: normal;
+  font-weight: 600;
+}
+
+footer a {
+  color: #fff;
+}
+
+footer a:hover {
+  color: #3cf;
+}
+
+.send-to-home {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.send-to-home .back-to-home1 {
+  background-color: #547980 ;
+  text-align: center;
+  padding: 150px 0px;
+}
+
+.send-to-home .back-to-home1 span {
+  display: inline-block;
+  font-size: 16px;
+  color: #fff;
+}
+
+.send-to-home .back-to-home1 h3 {
+  display: inline-block;
+  color: #fff;
+}
+
+.send-to-home .back-to-home1 .primary-button {
+  margin-top: 20px;
+}
+
+.send-to-home .back-to-home1 .primary-button a {
+  background-color: #fff;
+  color: #415b90;
+}
+
+.send-to-home .back-to-home1 .primary-button a:hover {
+  background-color: #22304d;
+  color: #fff;
+  transition: all 0.3s;
+}
+
+.send-to-home .back-to-home2 {
+  background-color: #C06C84;
+  text-align: center;
+  padding: 45px 0px;
+}
+
+.send-to-home .back-to-home2 span {
+  display: inline-block;
+  font-size: 16px;
+  color: #fff;
+}
+
+.send-to-home .back-to-home2 h3 {
+  display: inline-block;
+  color: #fff;
+}
+
+.send-to-home .back-to-home2 .primary-button {
+  margin-top: 20px;
+}
+
+.send-to-home .back-to-home2 .primary-button a {
+  background-color: #fff;
+  color: #415b90;
+}
+
+.send-to-home .back-to-home2 .primary-button a:hover {
+  background-color: #22304d;
+  color: #fff;
+  transition: all 0.3s;
+}
+
+.send-to-home .back-to-home3 {
+  background-color: #C06C84 ;
+  text-align: center;
+  padding: 45px 0px;
+}
+
+.send-to-home .back-to-home3 span {
+  display: inline-block;
+  font-size: 16px;
+  color: #fff;
+}
+
+.send-to-home .back-to-home3 h3 {
+  display: inline-block;
+  color: #fff;
+}
+
+.send-to-home .back-to-home3 .primary-button {
+  margin-top: 20px;
+}
+
+.send-to-home .back-to-home3 .primary-button a {
+  background-color: #fff;
+  color: #415b90;
+}
+
+.send-to-home .back-to-home3 .primary-button a:hover {
+  background-color: #22304d;
+  color: #fff;
+  transition: all 0.3s;
+}
+
+.send-to-home .back-to-home4 {
+  background-color: #C06C84;
+  text-align: center;
+  padding: 45px 0px;
+}
+
+.send-to-home .back-to-home4 span {
+  display: inline-block;
+  font-size: 16px;
+  color: #fff;
+}
+
+.send-to-home .back-to-home4 h3 {
+  display: inline-block;
+  color: #fff;
+}
+
+.send-to-home .back-to-home4 .primary-button {
+  margin-top: 20px;
+}
+
+.send-to-home .back-to-home4 .primary-button a {
+  background-color: #fff;
+  color: #415b90;
+}
+
+.send-to-home .back-to-home4 .primary-button a:hover {
+  background-color: #22304d;
+  color: #fff;
+  transition: all 0.3s;
+}
+
+.send-to-home .back-to-home5 {
+  background-color: #6C5B7B;
+  text-align: center;
+  padding: 45px 0px;
+}
+
+.send-to-home .back-to-home5 span {
+  display: inline-block;
+  font-size: 16px;
+  color: #fff;
+}
+
+.send-to-home .back-to-home5 h3 {
+  display: inline-block;
+  color: #fff;
+}
+
+.send-to-home .back-to-home5 .primary-button {
+  margin-top: 20px;
+}
+
+.send-to-home .back-to-home5 .primary-button a {
+  background-color: #fff;
+  color: #415b90;
+}
+
+.send-to-home .back-to-home5 .primary-button a:hover {
+  background-color: #22304d;
+  color: #fff;
+  transition: all 0.3s;
+}
+
+.send-to-home .back-to-home6 {
+  background-color: #6C5B7B;
+  text-align: center;
+  padding: 45px 0px;
+}
+
+.send-to-home .back-to-home6 span {
+  display: inline-block;
+  font-size: 16px;
+  color: #fff;
+}
+
+.send-to-home .back-to-home6 h3 {
+  display: inline-block;
+  color: #fff;
+}
+
+.send-to-home .back-to-home6 .primary-button {
+  margin-top: 20px;
+}
+
+.send-to-home .back-to-home6 .primary-button a {
+  background-color: #fff;
+  color: #415b90;
+}
+
+.send-to-home .back-to-home6 .primary-button a:hover {
+  background-color: #22304d;
+  color: #fff;
+  transition: all 0.3s;
+}
+
+.send-to-home .back-to-home7 {
+  background-color: #6C5B7B;
+  text-align: center;
+  padding: 45px 0px;
+}
+
+.send-to-home .back-to-home7 span {
+  display: inline-block;
+  font-size: 16px;
+  color: #fff;
+}
+
+.send-to-home .back-to-home7 h3 {
+  display: inline-block;
+  color: #fff;
+}
+
+.send-to-home .back-to-home7 .primary-button {
+  margin-top: 20px;
+}
+
+.send-to-home .back-to-home7 .primary-button a {
+  background-color: #fff;
+  color: #415b90;
+}
+
+.send-to-home .back-to-home7 .primary-button a:hover {
+  background-color: #22304d;
+  color: #fff;
+  transition: all 0.3s;
+}
